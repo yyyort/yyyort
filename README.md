@@ -9,7 +9,7 @@ Checkout my portfolio here 👉 [iantroypahilga.website](https://www.iantroypahi
 
 connect with me in: 
 <a href='https://www.linkedin.com/in/ian-troy-pahilga/' target='_blank'>
-  <img src='![image](https://github.com/user-attachments/assets/cf61615b-2d1e-4cd6-9db3-1d27c46dd51f)'/>
+  <img src='https://github.com/user-attachments/assets/cf61615b-2d1e-4cd6-9db3-1d27c46dd51f'  width="32" height="32"/>
 </a>
 
 
