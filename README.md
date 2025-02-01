@@ -10,13 +10,18 @@ Checkout my portfolio here 👉 [iantroypahilga.website](https://www.iantroypahi
 ### connect with me in: 
 
 <p align="left">
-<a href='https://www.linkedin.com/in/ian-troy-pahilga' target='_blank'>
-  <img src='https://github.com/user-attachments/assets/cf61615b-2d1e-4cd6-9db3-1d27c46dd51f' width="32" height="32"/>
+<a href='https://www.linkedin.com/in/ian-troy-pahilga' target='_blank' style="padding-right:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="32" height="32"/>
 </a>
     
-<a href='https://github.com/yyyort' target='_blank'>
-  <img src='https://github.com/user-attachments/assets/33759467-69b5-4bc9-a653-196854387ac6' width="32" height="32"/>
+<a href='https://github.com/yyyort' target='_blank' style="padding-right:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32" height="32"/>
 </a>
+
+<a href='https://www.facebook.com/iantroypahilga11/' target='_blank' style="padding-right:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="32" height="32"/>
+</a>
+
 </p>
 
 
