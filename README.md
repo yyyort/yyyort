@@ -13,9 +13,11 @@ Checkout my portfolio here 👉 [iantroypahilga.website](https://www.iantroypahi
 <a href='https://www.linkedin.com/in/ian-troy-pahilga' target='_blank'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="32" height="32" style="padding-right:10px;"/>
 </a>
+<img width="32" height="32/>
 <a href='https://github.com/yyyort' target='_blank'">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32" height="32" style="padding-right:10px;"/>
+  <img src="https://github.com/user-attachments/assets/9d68fe8c-f8f0-403f-af1c-43fe9ae4555a" width="32" height="32" style="padding-right:10px;"/>
 </a>
+<img width="32" height="32/>
 <a href='https://www.facebook.com/iantroypahilga11/' target='_blank'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="32" height="32" style="padding-right:10px;"/>
 </a>
