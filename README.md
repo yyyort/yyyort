@@ -1,10 +1,18 @@
 ## Hello there 👋 I am Ian Troy Pahilga
 
-I am an Aspriring Full Stack Developer and a fresh Computer Science Graduate at the University of San Agustin, I am a jack of all trades and is eager to learn and try anything that interests me in tech, from Web, Mobile, Game, and AI. I mainly focus on Full Stack Development, I use React, and NextJs for my Front End, Node and ExpressJS for the Back End, and PostgreSQL for SQL Database. Aside from that I have previous experience with mobile cross-platform before using Flutter and Firebase as a BaaS, alongside implementing a computer vision with it in my thesis project.
+I am an Aspriring Full Stack Developer and a fresh Computer Science Graduate at the University of San Agustin.
+I am a jack of all trades and is eager to learn and try anything that interests me in tech, from Web, Mobile, Game, and AI. I mainly focus on Full Stack Development, I use React, and NextJs for my Front End, Node and ExpressJS for the Back End, and PostgreSQL for SQL Database. Aside from that I have previous experience with mobile cross-platform before using Flutter and Firebase as a BaaS, alongside implementing a computer vision with it in my thesis project.
 
 I'm also currently learning React Native for mobile development and ASP.NET Core for backend development.
 
-Checkout my portfolio here ![pointing_arrow](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtnMjB2dTd3d2xjdXN0aHBlcmcxNndkYnR5bnYyYTVmcG53N2swaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UTjjT6id1AqYugpGbh/giphy.gif) [iantroypahilga.website](https://www.iantroypahilga.website/) 
+Checkout my portfolio here 👉 [iantroypahilga.website](https://www.iantroypahilga.website/) 
+
+connect with me in: 
+<a href='https://www.linkedin.com/in/ian-troy-pahilga/' target='_blank'>
+  <img src='![image](https://github.com/user-attachments/assets/cf61615b-2d1e-4cd6-9db3-1d27c46dd51f)'/>
+</a>
+
+
 
 
 <!--
